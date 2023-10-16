@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "uname": "Rushikesh",
+      "uemail": "rushikeshingale7447@gmail.com",
+      "uphone": "7447640893",
+      "upass": "12345678",
+      "id": 1
+    }
+  ],
+  "reservation": [
+    {
+      "people": "8",
+      "time": "17:50",
+      "date": "2023-10-25",
+      "id": 1
+    }
+  ],
+  "contact": [
+    {
+      "username": "Rushikesh",
+      "email": "rushikeshingaled7447@gmail.com",
+      "phone": "7447640893",
+      "address": "Akola, Maharashtra",
+      "msg": "thanks",
+      "id": 1
+    }
+  ]
+}

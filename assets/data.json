@@ -1,0 +1,86 @@
+
+let appetisers =  [
+    {
+      "name": "Caprese Salad",
+      "description": "Fresh mozzarella cheese, ripe tomatoes, and basil leaves drizzled with balsamic reduction and olive oil."
+    },
+    {
+      "name": "Bruschetta",
+      "description": "Slices of toasted baguette topped with diced tomatoes, garlic, basil, and a splash of olive oil."
+    },
+    {
+      "name": "Spinach and Artichoke Dip",
+      "description": "Creamy blend of spinach, artichoke hearts, and melted cheese, served with tortilla chips or toasted bread."
+    },
+    {
+      "name": "Stuffed Mushrooms",
+      "description": "Mushroom caps stuffed with a mixture of breadcrumbs, garlic, herbs, and cheese, baked to perfection."
+    },
+    {
+      "name": "Shrimp Cocktail",
+      "description": "Chilled jumbo shrimp served with tangy cocktail sauce and lemon wedges."
+    },
+    {
+      "name": "Calamari",
+      "description": "Crispy fried rings of calamari served with marinara sauce and lemon wedges."
+    },
+    {
+      "name": "Chicken Satay",
+      "description": "Skewers of marinated chicken served with peanut sauce and a cucumber-onion salad."
+    },
+    {
+      "name": "Spring Rolls",
+      "description": "Thin rice paper rolls stuffed with fresh vegetables, shrimp or tofu, and served with a sweet chili dipping sauce."
+    },
+    {
+      "name": "Potato Skins",
+      "description": "Crispy potato skins filled with cheese, bacon bits, and green onions, served with sour cream."
+    },
+    {
+      "name": "Antipasto Platter",
+      "description": "A selection of cured meats, cheeses, olives, roasted peppers, and marinated vegetables."
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "description": "Breaded and fried mozzarella cheese sticks served with marinara sauce."
+    },
+    {
+      "name": "Coconut Shrimp",
+      "description": "Large shrimp coated in coconut flakes and fried until golden brown, served with a sweet and tangy dipping sauce."
+    },
+    {
+      "name": "Ceviche",
+      "description": "Fresh seafood (typically shrimp or fish) marinated in citrus juices, mixed with onions, cilantro, and peppers."
+    },
+    {
+      "name": "Gyoza",
+      "description": "Japanese dumplings filled with seasoned ground meat or vegetables, pan-fried and served with soy dipping sauce."
+    },
+    {
+      "name": "Bacon-Wrapped Dates",
+      "description": "Dates stuffed with almonds or cheese, wrapped in bacon, and baked until crispy."
+    },
+    {
+      "name": "Deviled Eggs",
+      "description": "Halved hard-boiled eggs filled with a creamy yolk and mayonnaise mixture, often garnished with paprika or herbs."
+    },
+    {
+      "name": "Tuna Tartare",
+      "description": "Fresh raw tuna diced and mixed with sesame oil, soy sauce, and various toppings like green onions, sesame seeds, and avocado."
+    },
+    {
+      "name": "Fried Pickles",
+      "description": "Sliced dill pickles coated in a crispy batter, deep-fried, and served with a dipping sauce."
+    },
+    {
+      "name": "Ahi Poke",
+      "description": "Cubes of raw tuna seasoned with soy sauce, sesame oil, and various toppings like green onions, sesame seeds, and avocado."
+    },
+    {
+      "name": "Escargot",
+      "description": "Snails cooked in garlic and herb butter, served in their shells with crusty bread for dipping."
+    }
+  ]
+
+
+

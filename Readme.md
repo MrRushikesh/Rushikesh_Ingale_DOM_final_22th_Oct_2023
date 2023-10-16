@@ -94,7 +94,7 @@ Summarize the project's key features and benefits. Mention potential areas for f
 - step 1 -: Install json-server. 
     `npm install json-server -g`
 
-- Step 2 -: Run json-server
-    `npm json-server data.json --port=5000 -: run json-server`
+- Step 2 -: Run json-server on port number 5000. 
+    `npm json-server data.json --port=5000`
 
 - Step 3 -: Click on index.html

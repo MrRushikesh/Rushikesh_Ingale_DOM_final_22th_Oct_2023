@@ -87,4 +87,14 @@
 Summarize the project's key features and benefits. Mention potential areas for future enhancements, such as adding real authentication and integrating with a real restaurant database.
 
 ## Live Link -: 
-<a href="https://mrrushikesh.github.io/Rushikesh_Ingale_DOM_final_17th_Sep_2023/Pages/profile.html">Click Here</a>
+<a href="https://mrrushikesh.github.io/Rushikesh_Ingale_DOM_final_22th_Oct_2023/Pages/profile.html">Click Here</a>
+
+## How to Start -: 
+
+- step 1 -: Install json-server. 
+    `npm install json-server -g`
+
+- Step 2 -: Run json-server
+    `npm json-server data.json --port=5000 -: run json-server`
+
+- Step 3 -: Click on index.html
